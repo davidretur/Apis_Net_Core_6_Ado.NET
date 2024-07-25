@@ -1,0 +1,13 @@
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\bin\Debug\ConsumirApi_WFormsNetFramework.exe.config
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\bin\Debug\ConsumirApi_WFormsNetFramework.exe
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\bin\Debug\ConsumirApi_WFormsNetFramework.pdb
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.csproj.AssemblyReference.cache
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.Form1.resources
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.Properties.Resources.resources
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.csproj.GenerateResource.cache
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.csproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\Consumir.5CFCBE54.Up2Date
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.exe
+C:\Dav Pru\mi repo\Apis_Net_Core_6_Ado.NET\ConsumirApi_WFormsNetFramework\ConsumirApi_WFormsNetFramework\obj\Debug\ConsumirApi_WFormsNetFramework.pdb

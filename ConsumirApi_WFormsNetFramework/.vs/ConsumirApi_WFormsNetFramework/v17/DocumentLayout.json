@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dav Pru\\mi repo\\Apis_Net_Core_6_Ado.NET\\ConsumirApi_WFormsNetFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39C83CE-B75C-4E8F-889A-668B7C54D9B1}|ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework.csproj|c:\\dav pru\\mi repo\\apis_net_core_6_ado.net\\consumirapi_wformsnetframework\\consumirapi_wformsnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39C83CE-B75C-4E8F-889A-668B7C54D9B1}|ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework.csproj|solutionrelative:consumirapi_wformsnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39C83CE-B75C-4E8F-889A-668B7C54D9B1}|ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework.csproj|c:\\dav pru\\mi repo\\apis_net_core_6_ado.net\\consumirapi_wformsnetframework\\consumirapi_wformsnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E39C83CE-B75C-4E8F-889A-668B7C54D9B1}|ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework.csproj|solutionrelative:consumirapi_wformsnetframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Apis_Net_Core_6_Ado.NET\\ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Apis_Net_Core_6_Ado.NET\\ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "RelativeToolTip": "ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:10:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\Apis_Net_Core_6_Ado.NET\\ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsumirApi_WFormsNetFramework\\Form1.cs",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\Apis_Net_Core_6_Ado.NET\\ConsumirApi_WFormsNetFramework\\ConsumirApi_WFormsNetFramework\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsumirApi_WFormsNetFramework\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:29.453Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
